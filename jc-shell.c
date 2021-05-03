@@ -1,3 +1,21 @@
+/*
+    Kennedy Jacinto
+    #65303185
+    github.com/kennedy-jacinto
+
+    Honório Neto
+    #75751835
+    github.com/honorio-sousa-neto
+
+    Joseph Pascoal
+
+    Yolanda Canguia
+    #83612809
+    github.com/yolanda-silva
+
+
+*/
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>
